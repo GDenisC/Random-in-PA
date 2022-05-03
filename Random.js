@@ -1,4 +1,4 @@
-class random
+class Random
 {
     constructor()
     {
