@@ -6,11 +6,14 @@ Here i am create Random class in some PL.
 [main/Random.hpp](https://github.com/GDenisC/Random-in-PA/blob/main/Random.hpp)
 # Random in JS and Node.js
 [main/Random.js](https://github.com/GDenisC/Random-in-PA/blob/main/Random.js)
+
 require URL: https://... (soon)
+
+[Functional in this site](https://github.com/GDenisC/Random-in-PA/#js) (soon)
 # Random in PHP
 [main/Random.php](https://github.com/GDenisC/Random-in-PA/blob/main/Random.php)
 
-[Functional in this site](https://github.com/GDenisC/Random-in-PA/#) (soon)
+[Functional in this site](https://github.com/GDenisC/Random-in-PA/#php) (soon)
 # Random in Python
 [main/Random.py](https://github.com/GDenisC/Random-in-PA/blob/main/Random.py)
 # Other PL Random
