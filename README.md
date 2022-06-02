@@ -4,6 +4,7 @@ Here i am create Random class in some PL.
 [main/Random.cs](https://github.com/GDenisC/Random-in-PL/blob/main/Random.cs)
 # Random in C++ (header)
 [main/Random.hpp](https://github.com/GDenisC/Random-in-PL/blob/main/Random.hpp)
+[main/RandomV2.hpp](https://github.com/GDenisC/Random-in-PL/blob/main/RandomV2.hpp)
 # Random in JS and Node.js
 [main/Random.js](https://github.com/GDenisC/Random-in-PL/blob/main/Random.js)
 
