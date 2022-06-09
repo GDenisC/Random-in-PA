@@ -47,10 +47,10 @@ class Random
         const char* chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     );
     /// returns random std::string in argument `string` with length `length`
-    inline std::string random_string(
+    /*inline std::string random_string(
         int length = 1,
         std::string string = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    );
+    );*/
     /// returns random value from `arr`
     inline std::string choice(
         std::vector<std::string> arr
